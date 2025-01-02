@@ -69,7 +69,7 @@ The strategy targets **three distinct customer segments**, with a strong focus o
 - **Post-Launch (6-12 months):** Scale operations, enhance loyalty, and optimise channels based on performance.
 
 ### **8. Exit Strategy**
-![Exit Strategy](https://github.com/DipunMohapatra/E-Ventura-Electric-scooter-Market-Entry-Strategy-in-India/raw/main/Viz/Exit%20strategy.png)
+![Exit Strategy](https://github.com/DipunMohapatra/E-Ventura-Electric-scooter-Market-Entry-Strategy-in-India/raw/2d146fb196ed445965988fa420b62363317bd75c/Viz/Exit%20strategy.png)
 
 - If goals are not met within **5 years**, explore **divestment**, **partnerships**, or gradual **market withdrawal** to recover investment.
 
