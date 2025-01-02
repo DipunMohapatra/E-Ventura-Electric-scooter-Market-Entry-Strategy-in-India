@@ -15,35 +15,62 @@ The strategy targets **three distinct customer segments**, with a strong focus o
 ## **3. Insights Deep-Dive**
 
 ### **1. Market Opportunity**
+![Market Forecast](https://github.com/DipunMohapatra/E-Ventura-Electric-scooter-Market-Entry-Strategy-in-India/raw/976cf768b8203c9f26d2c2b8241aa082d3dd546f/Viz/Market%20Forecast.png)
 - India’s electric two-wheeler (E2W) market is projected to grow from **$950.4M in 2023** to **$12.6B by 2032** at a **33.25% CAGR**.
 - E2Ws are expected to constitute **60-70% of scooter sales by 2030**, driven by government incentives like **GST reductions** and **subsidies**.
 
+
+
 ### **2. Consumer Insights**
+![Consumer Survey](https://github.com/DipunMohapatra/E-Ventura-Electric-scooter-Market-Entry-Strategy-in-India/raw/976cf768b8203c9f26d2c2b8241aa082d3dd546f/Viz/Consumer%20survey.png)
 - **86% of buyers** consider E2Ws due to **lower operational costs**.
 - **Key purchasing factors:** Affordability, safety, range, battery life, and charging speed.
 - **Key challenges:** Range anxiety, limited charging infrastructure, and high battery replacement costs.
 
+
+
 ### **3. Competitive Landscape**
+![Market Sales Change Oct-Nov](https://github.com/DipunMohapatra/E-Ventura-Electric-scooter-Market-Entry-Strategy-in-India/raw/976cf768b8203c9f26d2c2b8241aa082d3dd546f/Viz/Market%20Sales%20Change%20Oct-Nov.png)
 - Dominated by **Ola (31.1% market share)**, **TVS (27.87%)**, and **Bajaj (19.6%)**.
 - **Ola’s competitive edge:** 115 km/charge range, D2C model, and aggressive pricing.
 - **Differentiation opportunities:** Affordable scooters with **80-120 km range**.
 
+
+
 ### **4. E-Ventura’s Positioning**
+![TOPSIS Analysis](https://github.com/DipunMohapatra/E-Ventura-Electric-scooter-Market-Entry-Strategy-in-India/raw/976cf768b8203c9f26d2c2b8241aa082d3dd546f/Viz/TOPSIS%20Analysis.png)
 - **Premium product ranks 4th**; mid-range product ranks **8th** in the competitive landscape, highlighting strong positioning based on price and features.
 
+
+
 ### **5. Financial Viability**
+![Revenue vs Cost](https://github.com/DipunMohapatra/E-Ventura-Electric-scooter-Market-Entry-Strategy-in-India/raw/ef557f74a8ba66d439552b407e1d439ee8b23f0a/Viz/Revenue%20vs%20Cost.png)
+
 - Capturing a **2% SOM** yields an **NPV of ₹183M**, **33% IRR**, and cost recovery within **3.92 years**.
 - Achieving **2-7% SOM** ensures long-term scalability through **localisation and differentiation**.
 
 ### **6. Entry Mode Recommendation**
+![Wholly Owned Subsidiary](https://github.com/DipunMohapatra/E-Ventura-Electric-scooter-Market-Entry-Strategy-in-India/raw/ef557f74a8ba66d439552b407e1d439ee8b23f0a/Viz/Wholly%20owned%20subsidiary.png)
+
 - A **wholly owned subsidiary** is preferred to retain total control and strengthen branding.
 
 ### **7. Go-To-Market (GTM) Strategy**
+
+![Post-Launch](https://github.com/DipunMohapatra/E-Ventura-Electric-scooter-Market-Entry-Strategy-in-India/raw/ef557f74a8ba66d439552b407e1d439ee8b23f0a/Viz/Post-Launch.png)
+
 - **Pre-Launch (4-6 months):** Build brand awareness and trust.
+  
+![Launch](https://github.com/DipunMohapatra/E-Ventura-Electric-scooter-Market-Entry-Strategy-in-India/raw/ef557f74a8ba66d439552b407e1d439ee8b23f0a/Viz/Launch.png)
+
 - **Launch (3 months):** Expand sales via multichannel availability.
+  
+![Post-Launch](https://github.com/DipunMohapatra/E-Ventura-Electric-scooter-Market-Entry-Strategy-in-India/raw/ef557f74a8ba66d439552b407e1d439ee8b23f0a/Viz/Post-Launch.png)
+
 - **Post-Launch (6-12 months):** Scale operations, enhance loyalty, and optimise channels based on performance.
 
 ### **8. Exit Strategy**
+![Exit Strategy](https://github.com/DipunMohapatra/E-Ventura-Electric-scooter-Market-Entry-Strategy-in-India/raw/main/Viz/Exit%20strategy.png)
+
 - If goals are not met within **5 years**, explore **divestment**, **partnerships**, or gradual **market withdrawal** to recover investment.
 
 ---
