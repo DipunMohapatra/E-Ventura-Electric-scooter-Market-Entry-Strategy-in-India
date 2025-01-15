@@ -1,4 +1,31 @@
 # **E-Ventura Electric Scooter Market Entry Strategy in India**
+# Table of Contents
+
+- [Project Background](#project-background)
+- [Executive Summary](#executive-summary)
+- [Insights Deep-Dive](#insights-deep-dive)
+  - [Market Opportunity](#market-opportunity)
+  - [Consumer Insights](#consumer-insights)
+  - [Competitive Landscape](#competitive-landscape)
+  - [E-Ventura’s Positioning](#e-venturas-positioning)
+  - [Financial Viability](#financial-viability)
+- [Entry Mode Recommendation](#entry-mode-recommendation)
+- [Go-To-Market (GTM) Strategy](#go-to-market-gtm-strategy)
+- [Exit Strategy](#exit-strategy)
+- [Recommendations](#recommendations)
+  - [Product & Battery Strategy](#product--battery-strategy)
+  - [Pricing & Financing](#pricing--financing)
+  - [Charging & Infrastructure](#charging--infrastructure)
+  - [Go-to-Market (GTM) Execution](#go-to-market-gtm-execution)
+  - [Local Manufacturing & Supply Chain](#local-manufacturing--supply-chain)
+  - [Brand & Marketing](#brand--marketing)
+  - [Customer Experience & Retention](#customer-experience--retention)
+- [Risk & Exit Planning](#risk--exit-planning)
+- [Clarifying Questions, Assumptions, and Caveats](#clarifying-questions-assumptions-and-caveats)
+  - [Questions for Stakeholders](#questions-for-stakeholders-prior-to-project-advancement)
+  - [Assumptions](#assumptions)
+  - [Caveats](#caveats)
+
 
 ## **Project Background**
 India's electric vehicle (EV) market is expected to grow at a compound annual growth rate (**CAGR**) of **33.25%** between **2024 and 2032**, driven by growing environmental consciousness and increasing affordability through government subsidies. With two-wheelers dominating over **70% of vehicles in India**, E-Ventura seeks to establish a stronghold in the electric scooter market by leveraging its expertise in sustainable mobility solutions.
